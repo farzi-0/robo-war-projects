@@ -25,4 +25,4 @@ Photos, CAD designs, electronics and competition documentation will be added her
 
 ## 🎥 Videos
 
-Competition and testing videos will be added here.
+Competition and testing videos will be added here
